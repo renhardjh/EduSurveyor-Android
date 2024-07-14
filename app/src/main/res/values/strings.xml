@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EduSurveyor</string>
+    <string name="question_fullname">1. Fullname</string>
+    <string name="question_gender">2. Gender</string>
+    <string name="question_age">3. Age</string>
+    <string name="question_university">4. University</string>
+    <string name="question_major">5. Major</string>
+    <string name="question_job">6. Job</string>
+    <string name="submit">Submit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="new_survey">New Survey</string>
+    <string name="your_answer">Your answer</string>
+    <string name="save_as">Save as</string>
+    <string name="submit_as">Submit as</string>
+    <string name="title">Title</string>
+    <string name="no_data_record">No Data Record</string>
+    <string name="created_at">Created at %1$s</string>
+    <string name="updated_at">Updated at %1$s</string>
+    <string name="save">Save</string>
+    <string name="survey_has_been_recorded">Survey has been recorded</string>
+    <string name="record_has_been_updated">Record has been updated</string>
+    <string name="failed_update_record">Failed update record</string>
+    <string name="data_record_has_been_deleted">Data record has been deleted</string>
+
+    <string-array name="universities">
+        <item>Please Select</item>
+        <item>Binus University</item>
+        <item>Gunadarma University</item>
+        <item>Mercu Buana University</item>
+        <item>Ahmad Dahlan University</item>
+        <item>Telkom University</item>
+        <item>Trisakti University</item>
+        <item>Esa Unggul  University</item>
+        <item>Pancasila  University</item>
+    </string-array>
+</resources>
