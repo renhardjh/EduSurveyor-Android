@@ -23,6 +23,11 @@
     <string name="record_has_been_updated">Record has been updated</string>
     <string name="failed_update_record">Failed update record</string>
     <string name="data_record_has_been_deleted">Data record has been deleted</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="client_id">82946008170-vnc079c0a14r8eetb2b2b76jh1dtiof7.apps.googleusercontent.com</string>
+    <string name="client_secret">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</string>
 
     <string-array name="universities">
         <item>Please Select</item>
@@ -35,4 +40,5 @@
         <item>Esa Unggul  University</item>
         <item>Pancasila  University</item>
     </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>

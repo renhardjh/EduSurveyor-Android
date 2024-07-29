@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "82946008170",
+    "project_id": "teak-runner-430816-u4",
+    "storage_bucket": "teak-runner-430816-u4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82946008170:android:3dee49f00d3091989ad613",
+        "android_client_info": {
+          "package_name": "com.group4.edusurveyor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82946008170-d1hd6flmua5uovpgthpa21c7cin35sfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.group4.edusurveyor",
+            "certificate_hash": "be77230835bd6318f89af8c8288f2d63d5240e29"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdl6uTxdMz77ObE5zOnqH6Ma6LfMASz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
